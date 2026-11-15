@@ -1,16 +1,19 @@
-# ChromaGrid – My World of Interests ✨
 
-A responsive React website showcasing my personal interests through an interactive image gallery.
+# ReactBit ✨
+
+A responsive personal interest gallery built using React.js, showcasing sports, travel, bikes, photography, gaming, and music.
 
 ## Features
+
 - Interactive interest cards
 - Category filters
 - Image popup modal
 - Responsive design
-- About Me section
+- About section
 - Back to Top button
 
 ## Technologies Used
+
 - React.js
 - JavaScript
 - HTML5
@@ -34,4 +37,4 @@ A responsive React website showcasing my personal interests through an interacti
 
 ## Developer
 
-Ananya K. A.
+Vidya Sagar
